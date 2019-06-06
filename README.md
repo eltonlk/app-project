@@ -1,1 +1,1 @@
-# APP para Gestão de Projetos
+# Aplicação para Gestão de Projetos
